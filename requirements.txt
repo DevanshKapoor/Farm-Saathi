@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+bitsandbytes
+datasets
+sentence-transformers
+faiss-cpu
+ipywidgets
+pypdf
+huggingface_hub
+kaggle_secrets
