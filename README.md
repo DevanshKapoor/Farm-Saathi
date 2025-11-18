@@ -1,4 +1,4 @@
-# AgriSwar 4.0: PDF-Based RAG Bot
+# FarmSaathi: PDF-Based RAG Bot
 
 This is a multilingual, text-only RAG (Retrieval-Augmented Generation) bot designed to answer agricultural questions. It dynamically builds its knowledge base by reading all PDF documents (e.g., government schemes, pest advisories, university reports) from a `/database` folder.
 
